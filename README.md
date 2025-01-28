@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, Soy: Darwin Chamba</h1>
 <h3 align="center">Dedicandole tiempo al desarrollo Backend.</h3>
 
-- 🔭 I’m currently working on **Desarrollo Móvil de Inventarios de Vinos**
+- 🔭 Actualmente estoy trabajando en: **Desarrollo Móvil de Inventarios de Vinos**
 
-- 🌱 I’m currently learning **C# y Spring Boot**
+- 🌱 Actualmente estoy aprendiendo: **C# y Spring Boot**
 
-- 💬 Ask me about **Laravel,Java y Mysql**
+- 💬 Pregúntame sobre: **Laravel,Java y Mysql**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
