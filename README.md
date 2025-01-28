@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me Darwin Chamba</h1>
-<h3 align="center">Actualmente estoy profundizando en el desarrollo Backend.</h3>
+<h3 align="center">Dedicandole tiempo al desarrollo Backend ahora.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
